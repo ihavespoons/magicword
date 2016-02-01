@@ -1,2 +1,2 @@
 # magicword
-You didn't say the magic word... You've been busted, it's time to destroy the evidence. Do so in style! Make your secret data entirely unreadable and leave them a Dennis Nedryesque farewell.
+You didn't say the magic word... You've been busted, it's time to destroy the evidence. Do so in style! Make your secret data entirely unreadable and leave them a Dennis Nedryesque farewell. Your data will be encrypted with a triple AES cipher if the wrong command is entered this will then be forwarded securely to a server in a neutral country of your choice. You won't know the key and therefore won't have to give it up. That and the PoPo will have a finger wagging ElvisNedry head in their faces.
